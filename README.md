@@ -1,1 +1,5 @@
-* Nodejs + Express + MongoDB +TypeScript
+# **Simple CRUD**
+- Nodejs 
+- Express
+- MongoDB
+- TypeScript
